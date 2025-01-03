@@ -13,7 +13,6 @@ http4k-format-jackson = { module = "org.http4k:http4k-format-jackson", version.r
 http4k-server-undertow = { module = "org.http4k:http4k-server-undertow", version.ref = "http4k" }
 http4k-testing-approval = { module = "org.http4k:http4k-testing-approval", version.ref = "http4k" }
 http4k-testing-hamkrest = { module = "org.http4k:http4k-testing-hamkrest", version.ref = "http4k" }
-http4k-testing-playwright = { module = "org.http4k:http4k-testing-playwright", version.ref = "http4k" }
 junit-jupiter-api = { module = "org.junit.jupiter:junit-jupiter-api", version.ref = "junit" }
 junit-jupiter-engine = { module = "org.junit.jupiter:junit-jupiter-engine", version.ref = "junit" }
 

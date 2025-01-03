@@ -67,7 +67,6 @@ dependencies {
     implementation(libs.http4k.server.undertow)
     testImplementation(libs.http4k.testing.approval)
     testImplementation(libs.http4k.testing.hamkrest)
-    testImplementation(libs.http4k.testing.playwright)
     testImplementation(libs.junit.jupiter.api)
     testImplementation(libs.junit.jupiter.engine)
 }
