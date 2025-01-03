@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37d9fb97-cda1-48b3-8326-885e7ee2842f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/xyz/malefic/waddlewaddle/yamls/test.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/libs.versions.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/xyz/malefic/waddlewaddle/Waddle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/xyz/malefic/waddlewaddle/Waddle.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/xyz/malefic/waddlewaddle/formats/YamlMessage.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/xyz/malefic/waddlewaddle/formats/YamlMessage.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +155,7 @@
       <updated>1735873929018</updated>
       <workItem from="1735873930537" duration="350000" />
       <workItem from="1735874292105" duration="285000" />
-      <workItem from="1735874583287" duration="3033000" />
+      <workItem from="1735874583287" duration="3295000" />
     </task>
     <servers />
   </component>
