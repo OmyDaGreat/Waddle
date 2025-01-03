@@ -1,7 +1,7 @@
 [versions]
 kotlin = "2.1.0"
 http4k = "5.43.0.0"
-junit = "5.11.3"
+junit = "5.11.4"
 
 [libraries]
 http4k-bom = { module = "org.http4k:http4k-bom", version.ref = "http4k" }
