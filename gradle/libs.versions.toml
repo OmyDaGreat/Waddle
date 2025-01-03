@@ -1,6 +1,6 @@
 [versions]
 kotlin = "2.1.0"
-http4k = "5.43.0.0"
+http4k = "5.44.0.0"
 junit = "5.11.4"
 linter = "5.0.1"
 
