@@ -1,0 +1,4 @@
+module:
+  id: 123456
+  min: 5
+  max: 10

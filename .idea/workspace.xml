@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37d9fb97-cda1-48b3-8326-885e7ee2842f" name="Changes" comment="" />
+    <list default="true" id="37d9fb97-cda1-48b3-8326-885e7ee2842f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/xyz/malefic/waddlewaddle/yamls/test.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/xyz/malefic/waddlewaddle/Waddle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/xyz/malefic/waddlewaddle/Waddle.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/xyz/malefic/waddlewaddle/formats/YamlMessage.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/xyz/malefic/waddlewaddle/formats/YamlMessage.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,10 +52,28 @@
       </state>
     </system>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "OmyDaGreat"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/OmyDaGreat/Waddle.git",
+    "accountId": "bc0bcb10-ab02-4b79-ae43-679c5ad754f3"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2r6K8vWXzieTao5NDmBeClQYgw1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -61,6 +85,8 @@
     "Gradle.WaddleWaddle [test].executor": "Run",
     "Kotlin.WaddleKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "javascript.nodejs.core.library.configured.version": "20.17.0",
     "javascript.nodejs.core.library.typings.version": "20.17.11",
@@ -76,7 +102,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.WaddleKt">
     <configuration name="WaddleWaddle [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -99,8 +125,16 @@
       <RunAsTest>false</RunAsTest>
       <method v="2" />
     </configuration>
+    <configuration name="WaddleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.malefic.waddlewaddle.WaddleKt" />
+      <module name="Waddle.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.WaddleKt" />
         <item itemvalue="Gradle.WaddleWaddle [test]" />
       </list>
     </recent_temporary>
@@ -123,7 +157,7 @@
       <updated>1735873929018</updated>
       <workItem from="1735873930537" duration="350000" />
       <workItem from="1735874292105" duration="285000" />
-      <workItem from="1735874583287" duration="612000" />
+      <workItem from="1735874583287" duration="3033000" />
     </task>
     <servers />
   </component>
