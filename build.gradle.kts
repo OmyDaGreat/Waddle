@@ -4,6 +4,7 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinJvmCompile
 
 plugins {
     kotlin("jvm") version libs.versions.kotlin
+    alias(libs.plugins.kotlinter)
     application
 }
 
@@ -47,6 +48,13 @@ tasks {
     java {
         sourceCompatibility = VERSION_21
         targetCompatibility = VERSION_21
+    }
+
+    register("formatAndLintKotlin") {
+        group = "formatting"
+        description = "Fix Kotlin code style deviations with kotlinter"
+        dependsOn(formatKotlin)
+        dependsOn(lintKotlin)
     }
 }
 

@@ -1,7 +1,8 @@
 [versions]
 kotlin = "2.1.0"
 http4k = "5.43.0.0"
-junit = "5.11.4"
+junit = "5.11.3"
+linter = "5.0.1"
 
 [libraries]
 http4k-bom = { module = "org.http4k:http4k-bom", version.ref = "http4k" }
@@ -15,3 +16,6 @@ http4k-testing-hamkrest = { module = "org.http4k:http4k-testing-hamkrest", versi
 http4k-testing-playwright = { module = "org.http4k:http4k-testing-playwright", version.ref = "http4k" }
 junit-jupiter-api = { module = "org.junit.jupiter:junit-jupiter-api", version.ref = "junit" }
 junit-jupiter-engine = { module = "org.junit.jupiter:junit-jupiter-engine", version.ref = "junit" }
+
+[plugins]
+kotlinter = { id = "org.jmailen.kotlinter", version.ref = "linter" }
