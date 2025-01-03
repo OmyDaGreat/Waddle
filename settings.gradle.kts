@@ -1,1 +1,1 @@
-rootProject.name = "Waddle"
+rootProject.name = "WaddleWaddleServer"
