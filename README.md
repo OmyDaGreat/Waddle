@@ -1,0 +1,7 @@
+# Waddle
+
+## Package
+```
+./gradlew distZip
+```
+
